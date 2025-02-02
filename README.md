@@ -1,1 +1,1 @@
-# Humana-Healthcare-Analytics-Case-Competition
+# Humana Healthcare Analytics Case Competition
