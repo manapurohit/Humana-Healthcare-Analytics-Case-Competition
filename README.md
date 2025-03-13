@@ -33,8 +33,8 @@ The goal was to develop a predictive model that identifies **members unlikely to
  ├── 2024CaseCompetition_Manaswi_Purohit_20241011.csv  # Final predictions  
  ├── Data Dictionary MLP.xlsx  # Data dictionary  
  ├── Mays Humana Case Comp Info Call.pdf  # Competition details  
- ├── holdout-feature-engg-manaswi-20241011.ipynb  # Feature engineering & holdout results  
- ├── huamana-case-competition-sharwari-wo_member_conditions_20241010.ipynb  # Model training & feature engineering  
+ ├── holdout-feature-engg.ipynb  # Feature engineering & holdout results  
+ ├── huamana-case-competition-train-test-featureengg-model.ipynb  # Model training & feature engineering  
 
 ```
 
